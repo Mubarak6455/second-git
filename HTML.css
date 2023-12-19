@@ -1,0 +1,50 @@
+body{
+    padding: 10px;
+    margin: 0;
+    font-family: Arial,  sans-serif;
+}
+
+header{
+    font-size: large;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    color: blue;
+}
+
+h2,input,label{
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-style: italic;
+    color: rgb(99, 99, 225);
+    text-align: center;
+}
+
+input,label{
+    padding: 5px;
+    margin-right: 10px;
+    background-color: aqua;
+    border: 1px solid #333;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+nav{
+    padding: 10px;
+    font-style: none;
+    text-align: justify;
+    color: blue;
+}
+
+dl{
+    padding: 10px;
+    text-decoration: overline;
+    text-align: center;
+    color: blue;
+}
+
+.controls{
+    justify-content: space-between;
+    border: 30px solid grey;
+    border-radius: 10px;
+}
